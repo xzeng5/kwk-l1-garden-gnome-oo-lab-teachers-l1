@@ -25,3 +25,5 @@ end
 gnome1 = GardenGnome.new
 gnome1.name = "Walter the Worse"
 gnome1.age = "3421"
+
+puts gnome1
