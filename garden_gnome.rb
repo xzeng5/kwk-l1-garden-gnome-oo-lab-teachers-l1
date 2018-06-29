@@ -23,4 +23,4 @@ class GardenGnome
 end
 
 gnome1 = GardenGnome.new
-gnome1.name
+puts gnome1.name
