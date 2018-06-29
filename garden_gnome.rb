@@ -13,14 +13,14 @@ class GardenGnome
     "Gnawing on a tree!!!"
   end
 end
-#
-#   def shout
-#     puts "GNARLY!!!"
-#   end
-#
-#   def introduce_self
-#     puts "Hello humans, my name is #{@name}, I am #{@age} years old, and you'll rue the day you crossed me!"
-#   end
-# end
-#
-# gnome1 = GardenGnome.new
+
+  def shout
+    "GNARLY!!!"
+  end
+
+  def introduce_self
+    "Hello humans, my name is #{@name}, I am #{@age} years old, and you'll rue the day you crossed me!"
+  end
+end
+
+gnome1 = GardenGnome.new
