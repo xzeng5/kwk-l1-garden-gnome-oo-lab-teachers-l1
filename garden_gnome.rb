@@ -23,3 +23,4 @@ class GardenGnome
 end
 
 gnome1 = GardenGnome.new
+puts gnome1
