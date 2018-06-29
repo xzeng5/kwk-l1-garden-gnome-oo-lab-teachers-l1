@@ -23,4 +23,5 @@ class GardenGnome
 end
 
 gnome1 = GardenGnome.new
-puts gnome1.name
+gnome1.name = "Walter the Worse"
+gnome1.age = "3421"
